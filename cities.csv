@@ -1,0 +1,79 @@
+country,region,city,clicks,leads,sales,saleAmount
+IN,IN-KA,Bengaluru,0,0,13,43457148
+GE,GE-TB,Tbilisi,0,0,5,19732586
+IN,IN-OD,Bhubaneswar,0,0,8,14450816
+HK,HK-Unknown,Hong Kong,0,0,21,9994829
+DE,DE-BE,Berlin,0,0,23,9341098
+KR,KR-41,Pyeongtaek-si,0,0,14,5477790
+TR,TR-34,Istanbul,0,0,7,4859042
+IL,IL-D,Beersheba,0,0,9,4192639
+TH,TH-10,Bangkok,0,0,12,3548920
+CA,CA-MB,Winnipeg,0,0,10,3357276
+VN,VN-DN,Da Nang,0,0,158,2232525
+ES,ES-MD,Madrid,0,0,12,1722257
+NZ,NZ-AUK,Auckland,0,0,25,1269564
+DE,DE-HE,Frankfurt am Main,0,0,2,1130919
+DE,DE-RP,Pfeffelbach,0,0,3,960569
+ID,ID-JK,Jakarta,0,0,18,910085
+FR,FR-ARA,Grenoble,0,0,7,763998
+VN,VN-HN,Hanoi,0,0,15,758850
+FR,FR-PAC,Vallauris,0,0,5,729001
+TR,TR-16,Bursa,0,0,2,699773
+CZ,CZ-10,Prague,0,0,2,680167
+RU,RU-MOW,Moscow,0,0,5,615677
+NL,NL-ZH,Naaldwijk,0,0,1,381698
+BG,BG-22,Sofia,0,0,11,347925
+VN,VN-SG,Ho Chi Minh City,0,0,21,298013
+MY,MY-14,Kuala Lumpur,0,0,3,274100
+SE,SE-AB,Stockholm,0,0,6,215854
+DE,DE-HE,Kassel,0,0,1,178400
+IN,IN-CH,Chandigarh,0,0,2,176100
+DE,DE-RP,Kaiserslautern,0,0,7,146166
+IN,IN-MP,Bhopal,0,0,7,129158
+IN,IN-MH,Mumbai,0,0,10,118881
+JP,JP-27,Osaka,0,0,3,113209
+NL,NL-ZH,Leiderdorp,0,0,5,104805
+NL,NL-NH,Amsterdam,0,0,16,79549
+GB,GB-ENG,Leicester,0,0,2,50997
+IN,IN-DL,New Delhi,0,0,1,49969
+DE,DE-BW,Freiburg im Breisgau,0,0,1,38124
+NL,NL-FL,Dronten,0,0,1,30000
+FR,FR-ARA,Bron,0,0,2,27692
+CO,CO-DC,Bogotá,0,0,8,27684
+DE,DE-BY,Nuremberg,0,0,4,26595
+GB,GB-ENG,Enfield,0,0,11,23733
+US,US-WA,Seattle,0,0,2,21964
+UA,UA-12,Dnipro,0,0,6,21943
+AR,AR-M,Mendoza,0,0,1,20000
+IN,IN-SK,Gangtok,0,0,1,20000
+NG,NG-LA,Lagos,0,0,2,19597
+ID,ID-SU,Medan,0,0,3,15620
+AT,AT-9,Vienna,0,0,3,15187
+CA,CA-BC,Burnaby,0,0,1,14095
+UA,UA-30,Kyiv,0,0,4,12286
+DE,DE-NW,Solingen,0,0,3,11592
+UA,UA-46,Lviv,0,0,1,9980
+IN,IN-TS,Hyderabad,0,0,5,8427
+BR,BR-SP,Franca,0,0,1,7067
+VN,VN-39,Biên Hòa,0,0,4,5602
+DE,DE-RP,Trier,0,0,2,5322
+DE,DE-HE,Rüsselsheim am Main,0,0,2,5199
+DE,DE-NW,Wuppertal,0,0,1,5150
+DE,DE-HH,Hamburg,0,0,2,5019
+DE,DE-SL,Saarbrücken,0,0,1,4983
+TW,TW-TPE,Taipei,0,0,1,4982
+IN,IN-HR,Gurugram,0,0,1,3632
+GR,GR-I,Athens,0,0,1,3437
+DE,DE-SN,Leipzig,0,0,2,2574
+US,US-NC,Winston-Salem,0,0,1,2493
+NL,NL-ZH,Waddinxveen,0,0,1,2437
+DE,DE-BB,Lubin,0,0,1,2430
+DE,DE-BW,Mannheim,0,0,1,2427
+DE,DE-ST,Magdeburg,0,0,1,2423
+PK,PK-SD,Karachi,0,0,1,1320
+IN,IN-MP,Indore,0,0,2,1221
+BR,BR-SP,Mogi das Cruzes,0,0,1,485
+DE,DE-BW,Stuttgart,0,0,1,223
+DE,DE-BY,Vohenstrauß,0,0,1,131
+DE,DE-BY,Loitzendorf,0,0,1,64
+GR,GR-B,Thessaloniki,0,0,1,17
